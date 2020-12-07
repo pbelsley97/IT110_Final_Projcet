@@ -1,0 +1,11 @@
+{
+    "name": "final",
+    "version": "1.0.0",
+    "description": "final project",
+    "main": "app.js",
+    "dependencies": {
+        "ejs": "^2.7.4",
+        "express": "^4.17.1",
+        "pg": "^7.18.2"
+    }
+}
